@@ -1,0 +1,75 @@
+ #alertmod_table_list_2 {
+     top: 900px !important;
+ }
+
+ .ui-jqgrid-title {
+     position: absolute;
+     left: 0;
+     right: 0;
+     display: block;
+     text-align: center;
+     font-weight: 600;
+     font-size: 15px;
+ }
+
+ .checked-background {
+     background-color: #dff0d8 !important;
+ }
+
+ .checked-start {
+     background-color: #ffffff !important;
+ }
+
+ #editmodtable_list_2 {
+     height: 320px !important;
+ }
+
+ .my-new-icon {
+     display: inline-block;
+     width: 18px;
+     height: 18px;
+     margin-top: 6px;
+     position: absolute;
+     z-index: 99;
+     padding:
+ }
+
+
+ td,
+ th > div {
+     text-align: center !important;
+ }
+
+ #jqgh_table_list_2_cb {
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+ #cb_table_list_2 {
+     margin-left: -10px;
+ }
+
+ #t_table_list_2 {
+     display: none;
+ }
+
+ #pager_list_2_left {
+     visibility: hidden;
+ }
+
+ .modal-footer {
+     border-top: none;
+ }
+
+ .float-e-margins .btn {
+     margin-bottom: 0;
+ }
+
+ .form-control,
+ .single-line {
+     height: 34px;
+ }
+
+ #lastPageReset {
+     height: 30px;
+ }

@@ -1,0 +1,78 @@
+ .big-title {
+     line-height: 20px;
+ }
+
+ .index-title-form {
+     width: 220px;
+ }
+
+ .border-bottom,
+ .skin-3 .navbar-static-top,
+ .skin-1 .navbar-static-top {
+     background: url(../img/11.png) !important;
+     background-size: cover !important;
+     background-repeat: no-repeat !important;
+     color: white !important;
+ }
+
+ .blue-skin:hover {
+     background: rgb(8, 97, 150);
+ }
+
+ .yellow-skin:hover {
+     background: rgb(175, 115, 47);
+ }
+
+
+ .nav > li > a {
+     color: white;
+ }
+
+ body.canvas-menu .navbar-static-side,
+ body.fixed-sidebar .navbar-static-side {
+     background: url(../img/12.png); 
+     background-size: cover !important;
+     background-repeat: no-repeat;
+     color: white;
+ }
+
+ .nav-second-level li a:hover {
+     background-color: #6899e6 !important;
+ }
+
+ .my-dropdown-menu {
+     color: black;
+ }
+
+ .blue-skin {
+     background-color: rgb(13, 141, 219);
+ }
+
+ .yellow-skin {
+     background-color: rgb(206, 135, 53);
+ }
+
+ #small-chat {
+     display: none;
+ }
+
+ .navbar-header {
+     margin-left: 28px;
+ }
+
+ .ibox-tools {
+     visibility: hidden;
+ }
+
+ .nav-header .text-muted {
+     color: #fff;
+ }
+
+ .nav-label,
+ .skin-3 .nav > li > a,
+ .nav > li > a i {
+     color: #fff !important;
+ }
+.navbar-top-links li:last-child{
+    margin-right: 14px;
+}
